@@ -1,5 +1,4 @@
 # Backend
-Education stats - онлайн-сервис для получения статистики успеваемости студентов.
 Стек технологий: Python, FastAPI, PostgreSQL, React.js
 
 Функционал API:
